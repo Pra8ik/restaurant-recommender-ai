@@ -1,0 +1,32 @@
+id,name,city,cuisine,price,rating
+1,Spice Hub,Bangalore,Indian,200,4.5
+2,Pizza Palace,Bangalore,Italian,400,4.2
+3,Dragon Wok,Bangalore,Chinese,300,4.0
+4,Burger Point,Bangalore,Fast Food,150,4.1
+5,Curry House,Bangalore,Indian,250,4.3
+
+6,Masala Darbar,Mumbai,Indian,300,4.4
+7,Pizza Roma,Mumbai,Italian,450,4.1
+8,Wok Express,Mumbai,Chinese,350,4.0
+9,Burger Street,Mumbai,Fast Food,200,4.2
+
+10,Delhi Tandoor,Delhi,Indian,280,4.5
+11,Pasta House,Delhi,Italian,420,4.0
+12,Beijing Bites,Delhi,Chinese,320,4.1
+13,Burger Hub,Delhi,Fast Food,180,4.0
+
+14,Hyderabadi Spice,Hyderabad,Indian,260,4.6
+15,Little Italy,Hyderabad,Italian,390,4.1
+16,Dragon Bowl,Hyderabad,Chinese,310,4.2
+17,Fast Feast,Hyderabad,Fast Food,170,4.0
+
+18,Chennai Curry,Chennai,Indian,240,4.4
+19,Italiano,Chennai,Italian,410,4.0
+20,Red Dragon,Chennai,Chinese,330,4.1
+21,Burger Bay,Chennai,Fast Food,160,4.0
+
+22,Pune Spice,Pune,Indian,230,4.3
+23,Pasta Plaza,Pune,Italian,380,4.2
+24,Chinese Wok,Pune,Chinese,300,4.1
+25,Burger Spot,Pune,Fast Food,150,4.0
+
